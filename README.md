@@ -1,6 +1,7 @@
 # Election 2016
 ___
 2018 | Bernard Kung
+
 ___
 
 #### Summary
@@ -23,4 +24,5 @@ McDonald, Michael P. "2016 November General Election Turnout Rates" United State
 
 ___
 2018 | Bernard Kung
+
 ___
