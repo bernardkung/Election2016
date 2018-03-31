@@ -1,0 +1,17 @@
+,State,
+,State Results Website,
+,Status,
+Turnout Rates,VEP Total Ballots Counted,"The percentage of VEP who cast votes, including under-votes (blank or indecipherable) and over-votes (more candidates selected than allowed)."
+,VEP Highest Office,"The percentage of VEP who cast votes for the ""highest office""."
+,VAP Highest Office,"The percentage of VAP who cast votes for the ""highest office""."
+Numerators,Total Ballots Counted (Estimate),"Total ballots, including under- and over-votes, estimated for states with missing data from states with data."
+,Highest Office,"Total ballots including a vote for ""highest office""."
+Denominators,Voting-Eligible Population (VEP),Adjusted VAP by removing non-citizens and ineligible felons. National estimates remove overseas eligible voters.
+,Voting-Age Population (VAP),Linear prediction using census data to predict voting-age population at election time.
+VEP Components,% Non-citizen,Using American Community Survey (ACS) estimate of non-citizen population.
+,Prison,"Estimated using Department of Justice Bureau, Office of Justice Statistics released statistics of the correctional population ."
+,Probation,"Estimated using Department of Justice Bureau, Office of Justice Statistics released statistics of the correctional population ."
+,Parole,"Estimated using Department of Justice Bureau, Office of Justice Statistics released statistics of the correctional population ."
+,Total Ineligible Felon,"Estimated using Department of Justice Bureau, Office of Justice Statistics released statistics of the correctional population ."
+,Overseas Eligible,"Estimated by interpolating Department of State Consular Services estimates of civil population abroad, DoD military deployment records, Department of State foreign service employees, and the Federal Voting Assistance Program."
+,State Abv,
